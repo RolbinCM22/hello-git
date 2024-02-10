@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "New ffHello World!\n";
+    std::cout << "Mi primer repositorio en GitHub\n";
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
